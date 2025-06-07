@@ -89,14 +89,6 @@ Como parte del proyecto del curso, estamos construyendo un **plan de trabajo Dev
 
 ---
 
-## 🖼️ Vista previa (opcional)
-
-> Puedes añadir una captura de pantalla del archivo `bienvenida.txt` con conflictos resueltos o una imagen divertida que represente al "Equipo DevSoft" trabajando en Git.  
-> Ejemplo:
-
-![Git Conflict Resuelto](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/2880px-Git-logo.svg.png)
-
----
 
 ## 📎 Recursos útiles
 
