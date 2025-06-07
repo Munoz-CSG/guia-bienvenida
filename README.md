@@ -41,7 +41,7 @@ Algunos de los comandos clave que practicamos:
 ```bash
 git init
 git config --global user.name "Tu Nombre"
-git config --global user.email "tu@email.com"
+git config --global user.email "tuemail"
 
 git add bienvenida.txt
 git commit -m "Mensaje del commit"
@@ -108,7 +108,7 @@ Como parte del proyecto del curso, estamos construyendo un **plan de trabajo Dev
 
 ## 💡 Créditos
 
-Repositorio creado por [TuNombre] como parte del curso **Fundamentos DevOps - BOTIC-SOFOF-24-28-05-0013**, facilitado por [Nombre del Instructor o Institución si aplica].
+Repositorio creado por Carlo Gonzalez y Jorge Muñoz como parte del curso **Fundamentos DevOps - BOTIC-SOFOF-24-28-05-0013**, facilitado por Brayan C.
 
 ---
 
